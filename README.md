@@ -25,3 +25,7 @@ A modern, fully responsive admin dashboard built with React, featuring role-base
 ```bash
 npm install
 npm run dev
+
+## Demo Credentials:
+- Admin → admin / admin123
+- User  → user / user123
